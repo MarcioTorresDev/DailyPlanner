@@ -16,7 +16,7 @@ Organize suas tarefas por categorias e nunca mais esqueça nada.
 
 ## 🖼️ Screenshots
 
-![Print da tela de lista de categorias, lista de tarefas e da tarefa](Captura de Tela 2025-07-10 às 23.03.45.png)
+![Print da tela de lista de categorias, lista de tarefas e da tarefa](Captura de Tela 2025-07-10 às 23.03.45.png?raw=true)
 
 ---
 
