@@ -16,7 +16,7 @@ Organize suas tarefas por categorias e nunca mais esqueça nada.
 
 ## 🖼️ Screenshots
 
-![Print da tela de lista de categorias, lista de tarefas e da tarefa](https://github.com/MarcioTorresDev/DailyPlanner/blob/main/TelasCategoriasTarefas.png?raw=true)
+![Print da tela de lista de categorias, lista de tarefas e da tarefa](https://github.com/MarcioTorresDev/DailyPlanner/blob/main/ScreenShot/TelasCategoriasTarefas.png?raw=true)
 
 ---
 
