@@ -29,7 +29,7 @@ git clone git@github.com:MarcioTorresDev/DailyPlanner.git
 
 📦 Tecnologias Usadas
 
-Swift 5
+Swift
 UIKit
 Core Data
 
@@ -52,7 +52,7 @@ DailyPlanner/
 👨‍💻 Autor
 
 Márcio Torres
-LinkedIn (adicione seu link real aqui se quiser!)
+LinkedIn (http://linkedin.com/in/márcio-torres-1a1340305)
 📄 Licença
 
 Este projeto está licenciado sob a MIT License.
