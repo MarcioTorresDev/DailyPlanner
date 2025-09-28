@@ -1,0 +1,24 @@
+name: Build and Test - DailyPlanner
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set Xcode version
+        run: sudo xcode-select -s /Applications/Xcode_15.2.app
+
+      - name: Build DailyPlanner project
+        run: xcodebuild -scheme "DailyPlanner" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 16 Pro' build
+
+      - name: Run Unit Tests (se tiver)
+        run: xcodebuild test -scheme "DailyPlanner" -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 16 Pro'
